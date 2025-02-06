@@ -1,1 +1,1 @@
-from phpmyadmin
+FROM phpmyadmin/phpmyadmin:latest
